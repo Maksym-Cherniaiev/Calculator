@@ -50,6 +50,7 @@ function sqr() {
     display.value *= display.value;
 }
 
+//-------очистити рядок----------------------------------------------
 document.querySelector(".clear")
     .addEventListener("click", clear);
 
