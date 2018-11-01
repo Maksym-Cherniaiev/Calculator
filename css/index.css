@@ -1,14 +1,10 @@
-body {
-    text-align: center;
-}
-
 button {
     padding: 5px 10px;
     margin: 0 auto;
     background-color: white;
 }
 
-.calcContainer__digitContainer {
+.calcContainer__numberContainer {
     padding: 10px 20px 0px 20px;
     width: 200px;
     margin: auto;
@@ -16,5 +12,8 @@ button {
 
 .calcContainer {
     border: 2px solid black;
-    
+    padding: 20px;
+    width: 250px;
+    text-align: center;
+    margin: auto;
 }
